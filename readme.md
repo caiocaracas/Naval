@@ -1,3 +1,5 @@
+Exemplo de entrada para o código 
+
 6
 3 X1dhcdfx35 557 0
 1 nmok0lee2 257 2
